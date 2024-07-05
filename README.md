@@ -1,0 +1,1 @@
+# Hibernate-Inheritance-TAblePerClass-
